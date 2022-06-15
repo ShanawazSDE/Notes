@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#19261F</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    <color name="buttonBackground">#BF6979</color>-->
+<!--    <color name="systemUI">#19261F</color>-->
+<!--    <color name="primaryBackground">#AFEEEE</color>-->
+<!--&lt;!&ndash;    <color name="primaryBackground">#D6FFFF</color>&ndash;&gt;-->
+<!--    <color name="listItemBorder">#BF6979</color>-->
+<!--    <color name="textColor">#BF99A3</color>-->
+<!--    <color name="toolbarColor">#5F736D</color>-->
+
+<!--    <color name="newNoteBackgroundColor">#D8F0F2</color>-->
+<!--    <color name="textColorDark">#BF6979</color>-->
+
+    <color name="buttonBackground">#EE6352</color>
+    <color name="systemUI">#EE6352</color>
+    <color name="primaryBackground">#F9DEC9</color>
+    <color name="listItemBorder">#3A405A</color>
+    <color name="newNoteETBorder">#3A405A</color>
+    <color name="textColorLight">#7D7D7D</color>
+    <color name="toolbarColor">#3A405A</color>
+    <color name="et_bck_color">#99B2DD</color>
+    <color name="newNoteBackgroundColor">#FFCD9B</color>
+    <color name="textColorDark">#3A405A</color>
+    <color name="onItemSelected">#EE6352</color>
+
+
+</resources>
